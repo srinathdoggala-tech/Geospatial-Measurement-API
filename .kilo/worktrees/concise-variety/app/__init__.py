@@ -1,1 +1,0 @@
-"""Geospatial measurement service."""
